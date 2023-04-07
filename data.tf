@@ -1,6 +1,6 @@
 data "aws_security_group" "sg1" {
-  name = "werserver" 
-  id = "sg-08f91e002b3c0e8c2" 
-  
+  #Name = "default" 
+  id = "sg-0b0fb15abc783d2a8"
+
 }
 
